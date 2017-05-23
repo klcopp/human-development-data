@@ -1,2 +1,2 @@
 # human-development-data
-# I'm messing around with Human Development data here.
+How well does gender inequality correlate with poverty and development?
